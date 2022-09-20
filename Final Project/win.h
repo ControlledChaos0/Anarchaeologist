@@ -1,0 +1,2 @@
+void initWin();
+void updateWin();

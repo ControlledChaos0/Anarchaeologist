@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "hw02lib.h": "c",
+        "obsticle.h": "c",
+        "tamagachi.h": "c",
+        "hw03lib.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "mode0.h": "c",
+        "start.h": "c",
+        "instructbackground1.h": "c",
+        "spritesheet.h": "c",
+        "gamelevel1collision.h": "c"
+    }
+}
